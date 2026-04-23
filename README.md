@@ -1,8 +1,8 @@
-# Felipe Medola Barranco — Analista de QA Manual
+# Felipe Medola Barranco — Analista de QA
 
 [![GitHub](https://img.shields.io/badge/GitHub-@felipemedola-181717?style=flat&logo=github)](https://github.com/felipemedola) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Barranco-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-barranco) [![Email](https://img.shields.io/badge/Email-felipe.medola%40hotmail.com-D14836?style=flat&logo=gmail)](mailto:felipe.medola@hotmail.com)
 
-Analista de QA Manual com formação em Ciência da Computação, experiência em suporte técnico e foco em entregas estáveis e alinhadas ao usuário final.
+Analista de QA com formação em Ciência da Computação, experiência em suporte técnico e foco em entregas estáveis e alinhadas ao usuário final.
 
 ---
 
