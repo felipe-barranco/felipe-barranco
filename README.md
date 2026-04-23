@@ -7,11 +7,15 @@ Analista de QA Manual com formação em Ciência da Computação, experiência e
 ---
 
 ## Sobre
-Sou Analista de QA Manual com formação em Ciência da Computação e sólida experiência em suporte técnico, o que me proporciona uma visão ampla sobre a qualidade de software. Tenho paixão por garantir que cada release seja entregue de forma estável, confiável e alinhada às expectativas do usuário final.
+Sou Analista de QA, formado em Ciência da Computação e certificado CTFL, com sólida experiência em suporte técnico — combinação que me proporciona uma visão ampla e prática sobre qualidade de software.
 
-Atuo na elaboração e execução de casos de teste, acompanhamento de defeitos e realização de testes de regressão para assegurar que novas funcionalidades não comprometam a base já existente. Tenho experiência em monitoramento de pipelines no Azure DevOps, validação de dados em MySQL e registro de bugs com documentação clara, facilitando a comunicação entre desenvolvedores, líderes e stakeholders.
+Atuo na elaboração e execução de casos de teste, acompanhamento de defeitos e realização de testes de regressão, garantindo que novas funcionalidades sejam entregues com estabilidade e sem comprometer o que já está em produção. Tenho experiência em testes de sistemas web e validação de funcionalidades em aplicativos Android e iOS.
 
-O que me diferencia é a combinação de olhar técnico e atenção aos detalhes, sempre com foco em reduzir retrabalho, antecipar riscos e fortalecer a colaboração em equipe dentro de ambientes ágeis. Meu objetivo é consolidar minha trajetória em QA e avançar para a automação de testes, contribuindo para processos mais eficientes e entregas de maior valor.
+Também possuo experiência com testes de API utilizando Postman, Azure DevOps, validação de dados em MySQL, versionamento com Git e GitHub, além de documentação clara de bugs para facilitar a comunicação entre desenvolvedores, lideranças e stakeholders.
+
+O que me diferencia é a combinação entre visão técnica e atenção aos detalhes, sempre com foco na redução de retrabalho, antecipação de riscos e fortalecimento da colaboração em ambientes ágeis.
+
+Meu objetivo é evoluir continuamente na área de QA e avançar para a automação de testes, contribuindo para processos mais eficientes e entregas de maior valor.
 
 ---
 
