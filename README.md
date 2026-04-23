@@ -20,11 +20,14 @@ Meu objetivo é evoluir continuamente na área de QA e avançar para a automaç�
 ---
 
 ## Principais habilidades
-- Testes manuais: funcionais, regressão, smoke e aceitação  
-- Elaboração de casos de teste, planos de teste e matriz de risco  
-- Acompanhamento e documentação de defeitos (Jira / Azure DevOps)  
-- Validação de dados em MySQL e monitoramento de pipelines (Azure DevOps)  
-- Comunicação clara entre times: steps-to-reproduce, evidências e priorização  
+- Elaboração e execução de casos de teste funcionais (test cases)
+- Realização de testes de regressão e User Acceptance Testing (UAT)
+- Testes do sistema web com validação de suas funcionalidades nos aplicativos Android e iOS
+- Testes de API utilizando Postman
+- Identificação, registro e acompanhamento de defeitos em ferramentas de gestão de testes
+- Monitoramento de builds e CI/CD pipelines
+- Validação de dados e consistência em relational databases
+- Comunicação de status, risks e test results para a equipe
 - Trabalho em ambientes ágeis (Kanban) e foco em redução de retrabalho
 
 ---
