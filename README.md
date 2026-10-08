@@ -1,6 +1,6 @@
 # Felipe Medola Barranco — Analista de QA
 
-[![GitHub](https://img.shields.io/badge/GitHub-@felipemedola-181717?style=flat&logo=github)](https://github.com/felipemedola) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Barranco-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-barranco) [![Email](https://img.shields.io/badge/Email-felipe.medola%40hotmail.com-D14836?style=flat&logo=gmail)](mailto:felipe.medola@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@felipe--barranco-181717?style=flat&logo=github)](https://github.com/felipe-barranco) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Barranco-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-barranco) [![Email](https://img.shields.io/badge/Email-felipe.medola%40hotmail.com-D14836?style=flat&logo=gmail)](mailto:felipe.medola@hotmail.com)
 
 Analista de QA formado em Ciência da Computação, certificado CTFL, com background em suporte técnico. Foco em entregas estáveis e alinhadas à experiência do usuário final.
 
