@@ -2,50 +2,53 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@felipemedola-181717?style=flat&logo=github)](https://github.com/felipemedola) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Barranco-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-barranco) [![Email](https://img.shields.io/badge/Email-felipe.medola%40hotmail.com-D14836?style=flat&logo=gmail)](mailto:felipe.medola@hotmail.com)
 
-Analista de QA com formação em Ciência da Computação, experiência em suporte técnico e foco em entregas estáveis e alinhadas ao usuário final.
+Analista de QA formado em Ciência da Computação, certificado CTFL, com background em suporte técnico. Foco em entregas estáveis e alinhadas à experiência do usuário final.
 
 ---
 
 ## Sobre
-Sou Analista de QA, formado em Ciência da Computação e certificado CTFL, com sólida experiência em suporte técnico — combinação que me proporciona uma visão ampla e prática sobre qualidade de software.
 
-Atuo na elaboração e execução de casos de teste, acompanhamento de defeitos e realização de testes de regressão, garantindo que novas funcionalidades sejam entregues com estabilidade e sem comprometer o que já está em produção. Tenho experiência em testes de sistemas web e validação de funcionalidades em aplicativos Android e iOS.
+Trabalho com QA desde 2025, depois de quatro anos em suporte técnico atendendo usuários reais. Essa vivência me ajuda a testar pensando em como o sistema é de fato usado, e não apenas no que está escrito na especificação.
 
-Também possuo experiência com testes de API utilizando Postman, Azure DevOps, validação de dados em MySQL, versionamento com Git e GitHub, além de documentação clara de bugs para facilitar a comunicação entre desenvolvedores, lideranças e stakeholders.
+No dia a dia, eu:
 
-O que me diferencia é a combinação entre visão técnica e atenção aos detalhes, sempre com foco na redução de retrabalho, antecipação de riscos e fortalecimento da colaboração em ambientes ágeis.
+- elaboro e executo casos de teste funcionais e de regressão, para que novas funcionalidades não comprometam o que já está em produção;
+- valido sistemas web e funcionalidades em aplicativos Android e iOS;
+- testo APIs com Postman e confiro a consistência dos dados em MySQL;
+- registro e acompanho defeitos no Azure DevOps, com documentação clara para facilitar a comunicação entre desenvolvedores, lideranças e stakeholders;
+- acompanho builds e pipelines de CI/CD e comunico status, riscos e resultados de testes ao time.
 
-Meu objetivo é evoluir continuamente na área de QA e avançar para a automação de testes, contribuindo para processos mais eficientes e entregas de maior valor.
+Trabalho em ambiente ágil (Kanban), com foco em reduzir retrabalho e antecipar riscos antes que cheguem à produção.
 
----
-
-## Principais habilidades
-- Elaboração e execução de casos de teste funcionais (test cases)
-- Realização de testes de regressão e User Acceptance Testing (UAT)
-- Testes do sistema web com validação de suas funcionalidades nos aplicativos Android e iOS
-- Testes de API utilizando Postman
-- Identificação, registro e acompanhamento de defeitos em ferramentas de gestão de testes
-- Monitoramento de builds e CI/CD pipelines
-- Validação de dados e consistência em relational databases
-- Comunicação de status, risks e test results para a equipe
-- Trabalho em ambientes ágeis (Kanban) e foco em redução de retrabalho
+Estou estudando automação de testes para evoluir de QA manual para QA com programação.
 
 ---
 
-## Experiência (resumo)
-- **Microwork Softwares** — Analista de QA Manual Pleno (03/2025 — atualmente)  
-- **Microwork Softwares** — Analista de Suporte Técnico (06/2021 — 03/2025)  
-- **Microwork Softwares** — Estagiário Suporte Técnico (02/2021 — 05/2021)
+## Habilidades
+
+**Testes:** casos de teste funcionais · regressão · UAT · testes web · testes mobile (Android e iOS)
+**API e dados:** Postman · MySQL
+**Ferramentas e processos:** Azure DevOps · Git e GitHub · CI/CD (acompanhamento de builds) · Kanban
+**Comunicação:** documentação de bugs · report de status e riscos
+
+---
+
+## Experiência
+
+- **Microwork Softwares** — Analista de QA Manual Pleno (03/2025 – atual)
+- **Microwork Softwares** — Analista de Suporte Técnico (06/2021 – 03/2025)
+- **Microwork Softwares** — Estagiário de Suporte Técnico (02/2021 – 05/2021)
+
+---
+
+## Certificações e formação
+
+- ISTQB CTFL (Certified Tester Foundation Level)
+- Bacharelado em Ciência da Computação
 
 ---
 
 ## Contato
-- **E-mail:** [felipe.medola@hotmail.com](mailto:felipe.medola@hotmail.com)  
-- **Telefone:** (19) 98444-5524  
-- **LinkedIn:** https://www.linkedin.com/in/felipe-barranco  
-- **GitHub:** https://github.com/felipemedola
 
----
-
-## Licença
-Distribuído sob a **MIT License**.
+- **E-mail:** felipe.medola@hotmail.com
+- **LinkedIn:** https://www.linkedin.com/in/felipe-barranco
