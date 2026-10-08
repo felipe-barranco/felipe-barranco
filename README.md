@@ -26,10 +26,10 @@ Estou estudando automação de testes para evoluir de QA manual para QA com prog
 
 ## Habilidades
 
-**Testes:** casos de teste funcionais · regressão · UAT · testes web · testes mobile (Android e iOS)
-**API e dados:** Postman · MySQL
-**Ferramentas e processos:** Azure DevOps · Git e GitHub · CI/CD (acompanhamento de builds) · Kanban
-**Comunicação:** documentação de bugs · report de status e riscos
+- **Testes:** casos de teste funcionais · regressão · UAT · testes web · testes mobile (Android e iOS)
+- **API e dados:** Postman · MySQL
+- **Ferramentas e processos:** Azure DevOps · Git e GitHub · CI/CD (acompanhamento de builds) · Kanban
+- **Comunicação:** documentação de bugs · report de status e riscos
 
 ---
 
